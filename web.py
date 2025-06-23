@@ -33,7 +33,7 @@ feature_names = [
 
 feature_names_en = [
     'Smoking Status', 'Blood Cadmium', 'Urine Antimony', 'Urine Barium', 'Urine Thallium',
-    'Poverty Income Ratio', 'Body Mass Index', 'Albumin', 'Age', 'Hemoglobin A1c'
+    'Poverty Income Ratio', 'Body Mass Index', 'Blood albumin', 'Age', 'Hemoglobin A1c'
 ]
 
 feature_dict = dict(zip(feature_names, feature_names_en))
