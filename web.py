@@ -47,7 +47,7 @@ variable_descriptions = {
     'Uthallium': 'Urine thallium concentration (μg/L)',
     'PIR': 'Poverty Income Ratio',
     'BMI': 'Body Mass Index (kg/m²)',
-    'ALB': 'Albumin level (g/L)',
+    'ALB': 'Blood albumin level (g/L)',
     'Age': 'Patient age in years',
     'HbA1c': 'Hemoglobin A1c (%)'
 }
