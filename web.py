@@ -45,7 +45,7 @@ variable_descriptions = {
     'Uantimony': 'Urine antimony concentration (μg/L)',
     'Ubarium': 'Urine barium concentration (μg/L)',
     'Uthallium': 'Urine thallium concentration (μg/L)',
-    'PIR': 'Poverty Income Ratio (0-5)',
+    'PIR': 'Poverty Income Ratio',
     'BMI': 'Body Mass Index (kg/m²)',
     'ALB': 'Albumin level (g/L)',
     'Age': 'Patient age in years',
